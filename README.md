@@ -11,7 +11,7 @@
 5. **Unlimited Sending**: Sending is only limited by your SMS plan and carrier restrictions.
 6. **Modem**: A modem is required to get the require details.
 
-**Note: if you buy android version(of courese with your phone and sim both works eSim or Physical sim) then you need to pay $50 monthly and unlimited sending and you will get first month for free unlimited sending.And for modem version you do not have to pay any single bucks(means one time only $250) make sure your modem support esim or physical sim.**
+**Note: if you buy android version(of courese with your phone and sim both works eSim or Physical sim) then you need to pay $50 monthly and unlimited sending and you will get first month for free unlimited sending.And for modem version you do not have to pay any single bucks(means one time only payment) make sure your modem support esim or physical sim.**
 
 ## Usage:
 1. **Run the software**: Start the software on your PC or RDP.
